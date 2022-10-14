@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-#### 👷 Check out what I'm currently working on
+My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpirit](https://xpirit.com/) and part time beekeeper 🐝.
+
+#### 👷 My recent contributions
 
 - [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (1 day ago)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 day ago)
@@ -12,15 +14,6 @@
 - [michaelcontento/terraform-aws-fastmail-dns](https://github.com/michaelcontento/terraform-aws-fastmail-dns) - Terraform module to configure fastmail DNS records on AWS
 - [michaelcontento/game.math](https://github.com/michaelcontento/game.math) - 
 - [michaelcontento/game.flowconnect-levelgen](https://github.com/michaelcontento/game.flowconnect-levelgen) - 
-- [michaelcontento/game.flowconnect](https://github.com/michaelcontento/game.flowconnect) - 
-- [michaelcontento/docker-php](https://github.com/michaelcontento/docker-php) - Lightweight PHP docker images
-- [michaelcontento/daffydrop](https://github.com/michaelcontento/daffydrop) - My first mobile game build with Monkey-X
-- [michaelcontento/docker-nginx-php-fpm](https://github.com/michaelcontento/docker-nginx-php-fpm) - Add nginx to the official php:fpm-alpine image
-- [michaelcontento/screenRDA](https://github.com/michaelcontento/screenRDA) - Don&#39;t waste your life in front of a screen
-
-#### 🔭 Latest releases I've contributed to
-
-- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) ([v1.0.0](https://github.com/michaelcontento/credly2hugo-action/releases/tag/v1.0.0), 3 days ago) - Import certificates from Credly into your Hugo website
 
 #### 🔨 My recent Pull Requests
 
@@ -39,36 +32,12 @@
 
 - [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09-xpirit-ist-es-geworden/) (1 month ago)
 
-#### 📓 Gists I wrote
-
-- [Split state in redux-storage](https://gist.github.com/fa1cde84e982efe7b7e7) (6 years ago)
-- [](https://gist.github.com/b1b9d7cf18b8c30f6bad) (6 years ago)
-- [](https://gist.github.com/4710e923973775c1594c) (7 years ago)
-- [](https://gist.github.com/4db0397a9b0661ab2e55) (7 years ago)
-- [](https://gist.github.com/b1272b27e555c56e93ff) (7 years ago)
-
 #### ⭐ Recent Stars
 
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
-#### 👯 Check out some of my recent followers
-
-- [marcuwynu23](https://github.com/marcuwynu23)
-- [brainexe](https://github.com/brainexe)
-- [afexer](https://github.com/afexer)
-- [caspertwo](https://github.com/caspertwo)
-- [miccoh1994](https://github.com/miccoh1994)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+- [LinkedIn](https://www.linkedin.com/in/michaelcontento/)
+- [Xing](https://www.xing.com/profile/Michael_Contento)
+- [Blog](https://www.michaelcontento.de)
+- [Credly](https://www.credly.com/users/michael-contento)
