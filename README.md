@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) -  (1 day ago)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (1 day ago)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 day ago)
 
 #### 🌱 My latest projects
 
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - 
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website
 - [michaelcontento/terraform-aws-fastmail-dns](https://github.com/michaelcontento/terraform-aws-fastmail-dns) - Terraform module to configure fastmail DNS records on AWS
 - [michaelcontento/game.math](https://github.com/michaelcontento/game.math) - 
 - [michaelcontento/game.flowconnect-levelgen](https://github.com/michaelcontento/game.flowconnect-levelgen) - 
