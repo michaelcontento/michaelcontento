@@ -3,7 +3,7 @@
 My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpirit](https://xpirit.com/) and part time beekeeper 🐝.
 
 #### 👷 My recent contributions
-{{range recentContributions 50}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -13,7 +13,7 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
