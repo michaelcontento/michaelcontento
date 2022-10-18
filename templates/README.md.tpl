@@ -22,7 +22,7 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 - 🇺🇸 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-{{range rss "https://www.michaelcontento.de/de/blog/index.xml" 5}}
+{{range rss "https://www.michaelcontento.de/blog/index.xml" 5}}
 - 🇩🇪 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
