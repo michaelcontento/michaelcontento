@@ -4,12 +4,12 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 
 #### 👷 My recent contributions
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
@@ -28,7 +28,7 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 
 #### ⭐ Recent Stars
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end}}
 
 #### 📫 How to reach me
