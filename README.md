@@ -13,8 +13,8 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
 - [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website
 - [michaelcontento/terraform-aws-fastmail-dns](https://github.com/michaelcontento/terraform-aws-fastmail-dns) - Terraform module to configure fastmail DNS records on AWS
-- [michaelcontento/game.math](https://github.com/michaelcontento/game.math) - 
-- [michaelcontento/game.flowconnect-levelgen](https://github.com/michaelcontento/game.flowconnect-levelgen) - 
+- [michaelcontento/game.math](https://github.com/michaelcontento/game.math)
+- [michaelcontento/game.flowconnect-levelgen](https://github.com/michaelcontento/game.flowconnect-levelgen)
 
 #### 🔨 My recent Pull Requests
 
@@ -33,6 +33,11 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 
 #### ⭐ Recent Stars
 
+- [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. (today)
+- [wulfland/ActionsFundamentals](https://github.com/wulfland/ActionsFundamentals) (today)
+- [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules. (today)
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (today)
+- [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. (today)
 
 #### 📫 How to reach me
 
