@@ -23,15 +23,13 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 - [Fix web installer to work again](https://github.com/rubykube/kaigara/pull/51) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (4 years ago)
 - [Fix installation issues after repo move](https://github.com/rubykube/kaigara/pull/48) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (4 years ago)
 - [Remove temporary files after installation](https://github.com/rubykube/kaigara/pull/46) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (4 years ago)
-- [Don&#39;t execute the start command if a operation fails](https://github.com/rubykube/kaigara/pull/45) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (5 years ago)
-- [Add support for nested metadata files](https://github.com/rubykube/kaigara/pull/44) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (5 years ago)
-- [Merge latest changes from jochen](https://github.com/michaelcontento/monkey-wizard/pull/19) on [michaelcontento/monkey-wizard](https://github.com/michaelcontento/monkey-wizard) (5 years ago)
-- [Add small section about circielci-matrix](https://github.com/circleci/circleci-docs/pull/949) on [circleci/circleci-docs](https://github.com/circleci/circleci-docs) (5 years ago)
-- [Travis mac and linux](https://github.com/michaelcontento/circleci-matrix/pull/22) on [michaelcontento/circleci-matrix](https://github.com/michaelcontento/circleci-matrix) (5 years ago)
 
 #### 📜 My recent blog posts
 
-- [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09-xpirit-ist-es-geworden/) (1 month ago)
+- 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09-xpirit-ist-es-geworden/) (1 month ago)
+
+
+- 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09-xpirit-ist-es-geworden/) (1 month ago)
 
 #### ⭐ Recent Stars
 
