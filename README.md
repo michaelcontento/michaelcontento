@@ -4,7 +4,7 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 
 #### 👷 My recent contributions
 
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (5 days ago)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (today)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (5 days ago)
 - [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors. (1 week ago)
 
