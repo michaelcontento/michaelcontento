@@ -9,7 +9,7 @@ My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpi
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
-- {{ if .Archived }}🗄️ {{ end }}[{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
