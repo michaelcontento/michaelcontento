@@ -33,11 +33,11 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### ⭐ Recent Stars
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (today)
 - [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. (today)
 - [wulfland/ActionsFundamentals](https://github.com/wulfland/ActionsFundamentals) (today)
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules. (today)
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (today)
-- [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. (today)
 
 #### 📫 How to reach me
 
