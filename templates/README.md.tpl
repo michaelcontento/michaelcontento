@@ -3,23 +3,27 @@
 My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpirit](https://xpirit.com/) and part time beekeeper 🐝.
 
 #### 👷 My recent contributions
-{{range recentContributions 50}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- {{ if .Archived }}🗄️ {{ end }}[{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 📜 My recent blog posts
 {{range rss "https://www.michaelcontento.de/en/blog/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- 🇺🇸 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+{{range rss "https://www.michaelcontento.de/de/blog/index.xml" 5}}
+- 🇩🇪 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ⭐ Recent Stars
