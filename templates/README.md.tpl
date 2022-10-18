@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Michael Content, I'm a passionated ⌨️ full-stack developer @ [Xpirit](https://xpirit.com/) and part time beekeeper 🐝.
+My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xpirit](https://xpirit.com/) and part time beekeeper 🐝.
 
 #### 👷 My recent contributions
 {{range recentContributions 5}}
