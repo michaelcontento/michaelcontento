@@ -26,12 +26,12 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 📜 My recent blog posts
 
-- 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10-github-actions-and-credly/) (today)
-- 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09-xpirit-ist-es-geworden/) (1 month ago)
+- 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) (today)
+- 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09/01/new-job-xpirit/) (1 month ago)
 
 
-- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10-github-actions-and-credly/) (today)
-- 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09-xpirit-ist-es-geworden/) (1 month ago)
+- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) (today)
+- 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09/01/neuer-arbeitgeber-xpirit/) (1 month ago)
 
 #### ⭐ Recent Stars
 
