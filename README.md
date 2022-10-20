@@ -4,7 +4,7 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (1 day ago)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (today)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 day ago)
 - [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors. (1 week ago)
 
@@ -26,10 +26,12 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 📜 My recent blog posts
 
+- 🇺🇸 [Chunked git-push into Azure DevOps](https://www.michaelcontento.de/en/blog/2022/10/20/chunked-git-push-into-azure-devops/) (today)
 - 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) (1 day ago)
 - 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09/01/new-job-xpirit/) (1 month ago)
 
 
+- 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/blog/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) (today)
 - 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) (1 day ago)
 - 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09/01/neuer-arbeitgeber-xpirit/) (1 month ago)
 
