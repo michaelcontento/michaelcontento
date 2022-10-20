@@ -4,8 +4,8 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (today)
-- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (today)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (1 day ago)
+- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 day ago)
 - [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors. (1 week ago)
 
 #### 🌱 My latest projects
@@ -26,20 +26,20 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 📜 My recent blog posts
 
-- 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) (today)
+- 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) (1 day ago)
 - 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09/01/new-job-xpirit/) (1 month ago)
 
 
-- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) (today)
+- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) (1 day ago)
 - 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09/01/neuer-arbeitgeber-xpirit/) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 day ago)
-- [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. (1 day ago)
-- [wulfland/ActionsFundamentals](https://github.com/wulfland/ActionsFundamentals) (1 day ago)
-- [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules. (1 day ago)
-- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (1 day ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
+- [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. (2 days ago)
+- [wulfland/ActionsFundamentals](https://github.com/wulfland/ActionsFundamentals) (2 days ago)
+- [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules. (2 days ago)
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (2 days ago)
 
 #### 📫 How to reach me
 
