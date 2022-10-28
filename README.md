@@ -4,9 +4,9 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (2 days ago)
-- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (6 days ago)
-- [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors. (2 weeks ago)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (3 days ago)
+- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 week ago)
+- [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 🔨 My recent Pull Requests
 
-- [Make author param of a page optional for single user blogs](https://github.com/gethugothemes/bookworm-light/pull/30) on [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) (2 weeks ago)
+- [Make author param of a page optional for single user blogs](https://github.com/gethugothemes/bookworm-light/pull/30) on [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) (3 weeks ago)
 - [Require pika version below 1.0.0](https://github.com/python-beaver/python-beaver/pull/433) on [python-beaver/python-beaver](https://github.com/python-beaver/python-beaver) (3 years ago)
 - [Fix web installer to work again](https://github.com/rubykube/kaigara/pull/51) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (4 years ago)
 - [Fix installation issues after repo move](https://github.com/rubykube/kaigara/pull/48) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (4 years ago)
