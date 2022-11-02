@@ -4,7 +4,6 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
-- [michaelcontento/TestExample](https://github.com/michaelcontento/TestExample) (today)
 - [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (2 days ago)
 - [ps-actions-sandbox/ActionsFundamentals](https://github.com/ps-actions-sandbox/ActionsFundamentals) (2 days ago)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 week ago)
@@ -12,11 +11,11 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 🌱 My latest projects
 
-- [michaelcontento/TestExample](https://github.com/michaelcontento/TestExample)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
 - [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website
 - [michaelcontento/terraform-aws-fastmail-dns](https://github.com/michaelcontento/terraform-aws-fastmail-dns) - Terraform module to configure fastmail DNS records on AWS
 - [michaelcontento/game.math](https://github.com/michaelcontento/game.math)
+- [michaelcontento/game.flowconnect-levelgen](https://github.com/michaelcontento/game.flowconnect-levelgen)
 
 #### 🔨 My recent Pull Requests
 
