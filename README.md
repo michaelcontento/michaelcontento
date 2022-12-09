@@ -18,11 +18,11 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo in README.md](https://github.com/devcontainers/images/pull/258) on [devcontainers/images](https://github.com/devcontainers/images) (today)
 - [Make author param of a page optional for single user blogs](https://github.com/gethugothemes/bookworm-light/pull/30) on [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) (2 months ago)
 - [Require pika version below 1.0.0](https://github.com/python-beaver/python-beaver/pull/433) on [python-beaver/python-beaver](https://github.com/python-beaver/python-beaver) (3 years ago)
 - [Fix web installer to work again](https://github.com/rubykube/kaigara/pull/51) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (4 years ago)
 - [Fix installation issues after repo move](https://github.com/rubykube/kaigara/pull/48) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (4 years ago)
-- [Remove temporary files after installation](https://github.com/rubykube/kaigara/pull/46) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (5 years ago)
 
 #### 📜 My recent blog posts
 
