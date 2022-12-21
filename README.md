@@ -4,6 +4,7 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
+- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (today)
 - [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (3 days ago)
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers (1 week ago)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 week ago)
@@ -11,11 +12,11 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 🌱 My latest projects
 
+- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail.
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
 - [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website
 - [michaelcontento/terraform-aws-fastmail-dns](https://github.com/michaelcontento/terraform-aws-fastmail-dns) - Terraform module to configure fastmail DNS records on AWS
 - [michaelcontento/game.math](https://github.com/michaelcontento/game.math)
-- [michaelcontento/game.flowconnect-levelgen](https://github.com/michaelcontento/game.flowconnect-levelgen)
 
 #### 🔨 My recent Pull Requests
 
