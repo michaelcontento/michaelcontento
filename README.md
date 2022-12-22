@@ -4,10 +4,10 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
-- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (today)
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (3 days ago)
+- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (1 day ago)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (4 days ago)
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers (1 week ago)
-- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (1 week ago)
+- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (2 weeks ago)
 - [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors. (2 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 🔨 My recent Pull Requests
 
-- [Update to work with latest DiBa UI again](https://github.com/michaelcontento/violentmonkey/pull/1) on [michaelcontento/violentmonkey](https://github.com/michaelcontento/violentmonkey) (2 days ago)
+- [Update to work with latest DiBa UI again](https://github.com/michaelcontento/violentmonkey/pull/1) on [michaelcontento/violentmonkey](https://github.com/michaelcontento/violentmonkey) (3 days ago)
 - [Fix typo in README.md](https://github.com/devcontainers/images/pull/258) on [devcontainers/images](https://github.com/devcontainers/images) (1 week ago)
 - [Make author param of a page optional for single user blogs](https://github.com/gethugothemes/bookworm-light/pull/30) on [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) (2 months ago)
 - [Require pika version below 1.0.0](https://github.com/python-beaver/python-beaver/pull/433) on [python-beaver/python-beaver](https://github.com/python-beaver/python-beaver) (3 years ago)
