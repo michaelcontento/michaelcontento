@@ -41,11 +41,11 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### ⭐ Recent Stars
 
+- [jascdk/Nilan_Homeassistant](https://github.com/jascdk/Nilan_Homeassistant) - Use your Home Assistant to control and read values from your Nilan air vent system (today)
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (2 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 months ago)
 - [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. (2 months ago)
 - [wulfland/ActionsFundamentals](https://github.com/wulfland/ActionsFundamentals) (2 months ago)
-- [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules. (2 months ago)
 
 #### 📫 How to reach me
 
