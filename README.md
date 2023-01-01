@@ -14,9 +14,9 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 - [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo
 - [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail.
+- [michaelcontento/iWriter-hugo](https://github.com/michaelcontento/iWriter-hugo)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
 - [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website
-- [michaelcontento/terraform-aws-fastmail-dns](https://github.com/michaelcontento/terraform-aws-fastmail-dns) - Terraform module to configure fastmail DNS records on AWS
 
 #### 🔨 My recent Pull Requests
 
