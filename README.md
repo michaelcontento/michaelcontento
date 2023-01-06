@@ -4,10 +4,10 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
-- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (today)
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (1 week ago)
+- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (1 day ago)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (2 weeks ago)
 - [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo (2 weeks ago)
-- [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers (3 weeks ago)
+- [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers (4 weeks ago)
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typo in README.md](https://github.com/devcontainers/images/pull/258) on [devcontainers/images](https://github.com/devcontainers/images) (3 weeks ago)
+- [Fix typo in README.md](https://github.com/devcontainers/images/pull/258) on [devcontainers/images](https://github.com/devcontainers/images) (4 weeks ago)
 - [Make author param of a page optional for single user blogs](https://github.com/gethugothemes/bookworm-light/pull/30) on [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) (3 months ago)
 - [Require pika version below 1.0.0](https://github.com/python-beaver/python-beaver/pull/433) on [python-beaver/python-beaver](https://github.com/python-beaver/python-beaver) (3 years ago)
 - [Fix web installer to work again](https://github.com/rubykube/kaigara/pull/51) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (5 years ago)
