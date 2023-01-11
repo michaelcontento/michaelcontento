@@ -4,9 +4,9 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### 👷 My recent contributions
 
-- [michaelcontento/actions-20230109](https://github.com/michaelcontento/actions-20230109) (1 day ago)
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (4 days ago)
-- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (5 days ago)
+- [michaelcontento/actions-20230109](https://github.com/michaelcontento/actions-20230109) (2 days ago)
+- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (5 days ago)
+- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (6 days ago)
 - [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo (2 weeks ago)
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers (1 month ago)
 
@@ -41,7 +41,7 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 #### ⭐ Recent Stars
 
-- [jascdk/Nilan_Homeassistant](https://github.com/jascdk/Nilan_Homeassistant) - Use your Home Assistant to control and read values from your Nilan air vent system (1 week ago)
+- [jascdk/Nilan_Homeassistant](https://github.com/jascdk/Nilan_Homeassistant) - Use your Home Assistant to control and read values from your Nilan air vent system (2 weeks ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (2 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 months ago)
 - [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. (2 months ago)
