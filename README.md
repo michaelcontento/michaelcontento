@@ -29,21 +29,21 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 #### 📜 My recent blog posts
 
 - 🇺🇸 [Flying Poop - Building a game in a day](https://www.michaelcontento.de/en/blog/2022/11/30/flying-poop-building-a-game-in-a-day/) (1 month ago)
-- 🇺🇸 [Chunked git-push into Azure DevOps](https://www.michaelcontento.de/en/blog/2022/10/20/chunked-git-push-into-azure-devops/) (2 months ago)
+- 🇺🇸 [Chunked git-push into Azure DevOps](https://www.michaelcontento.de/en/blog/2022/10/20/chunked-git-push-into-azure-devops/) (3 months ago)
 - 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) (3 months ago)
 - 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09/01/new-job-xpirit/) (4 months ago)
 
 
 - 🇩🇪 [Flying Poop - Ein Spiel an einem Tag](https://www.michaelcontento.de/blog/2022/11/30/flying-poop-ein-spiel-an-einem-tag/) (1 month ago)
-- 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/blog/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) (2 months ago)
+- 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/blog/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) (3 months ago)
 - 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) (3 months ago)
 - 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09/01/neuer-arbeitgeber-xpirit/) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery. (today)
-- [jascdk/Nilan_Homeassistant](https://github.com/jascdk/Nilan_Homeassistant) - Use your Home Assistant to control and read values from your Nilan air vent system (2 weeks ago)
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (2 months ago)
+- [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery. (1 day ago)
+- [jascdk/Nilan_Homeassistant](https://github.com/jascdk/Nilan_Homeassistant) - Use your Home Assistant to control and read values from your Nilan air vent system (3 weeks ago)
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (3 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 months ago)
 - [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. (3 months ago)
 
