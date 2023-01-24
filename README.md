@@ -1,17 +1,10 @@
-<h2 align="center">Hi there 🖖</h2>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelcontento&show_icons=true" width="50%"/>
 
-<br>
+## Hi there 🖖
 
 I'm a passionated 💻 full-stack developer and part time 🐝 beekeeper.
 
-<br>
-
 Always willing to learn new things.
-
-<br>
-<br>
 
 ### 🌱 My latest projects
 - [michaelcontento/bookworm-light](https://github.com/michaelcontento/bookworm-light)
