@@ -1,6 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelcontento&show_icons=true" width="50%"/>
-
-## Hi there 🖖
+# Hi there 🖖
 
 I'm a passionated 💻 full-stack developer and part time 🐝 beekeeper.
 
