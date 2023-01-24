@@ -23,9 +23,10 @@ My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xp
 
 ### 📫 How to reach me
 
-[LinkedIn] | [Xing] | [Blog] | [Credly]
+[LinkedIn] | [Xing] | [Blog] | [Credly] | [Sessionize]
 
   [LinkedIn]: https://www.linkedin.com/in/michaelcontento/
   [Xing]: https://www.xing.com/profile/Michael_Contento
   [Blog]: https://www.michaelcontento.de
   [Credly]: https://www.credly.com/users/michael-contento
+  [Sessionize]: https://sessionize.com/michaelcontento/
