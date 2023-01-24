@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelcontento&show_icons=true" width="50%"/>
-<h2 style="margin-top: -20px; border-bottom: 0;">Hi there 👋</h2>
+<h1 class="mt-n3">Hi there 👋</h1>
 
 I'm a passionated 💻 full-stack developer and part time 🐝 beekeeper.
 
