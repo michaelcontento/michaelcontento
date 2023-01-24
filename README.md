@@ -1,55 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xpirit](https://xpirit.com/) and part time beekeeper 🐝.
 
-#### 👷 My recent contributions
+| 🌱 My latest projects   |  |
+|-------------------------|--|
+| [michaelcontento/bookworm-light](https://github.com/michaelcontento/bookworm-light) |  |
+| [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) |  - Import certificates from Credly into repo |
+| [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) |  - A Terraform module to provision Gandi with DNS records for FastMail. |
+| [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) |  - Import certificates from Credly into your Hugo website |
+| [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) |  - Code of my website |
 
-- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website (today)
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website (6 days ago)
-- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail. (2 weeks ago)
-- [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo (1 month ago)
-- [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers (1 month ago)
+| 📜 My recent blog posts |  |
+|-------------------------|--|
+| 🇺🇸 [Flying Poop - Building a game in a day](https://www.michaelcontento.de/en/blog/2022/11/30/flying-poop-building-a-game-in-a-day/) | 🇩🇪 [Flying Poop - Ein Spiel an einem Tag](https://www.michaelcontento.de/blog/2022/11/30/flying-poop-ein-spiel-an-einem-tag/) |
+| 🇺🇸 [Chunked git-push into Azure DevOps](https://www.michaelcontento.de/en/blog/2022/10/20/chunked-git-push-into-azure-devops/) | 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/blog/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) |
+| 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) | 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) |
+| 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09/01/new-job-xpirit/) | 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09/01/neuer-arbeitgeber-xpirit/) |
 
-#### 🌱 My latest projects
-
-- [michaelcontento/bookworm-light](https://github.com/michaelcontento/bookworm-light)
-- [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo
-- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail.
-- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
-- [michaelcontento/michaelcontento.github.io](https://github.com/michaelcontento/michaelcontento.github.io) - Code of my website
-
-#### 🔨 My recent Pull Requests
-
-- [Fix typo in README.md](https://github.com/devcontainers/images/pull/258) on [devcontainers/images](https://github.com/devcontainers/images) (1 month ago)
-- [Make author param of a page optional for single user blogs](https://github.com/gethugothemes/bookworm-light/pull/30) on [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) (3 months ago)
-- [Require pika version below 1.0.0](https://github.com/python-beaver/python-beaver/pull/433) on [python-beaver/python-beaver](https://github.com/python-beaver/python-beaver) (3 years ago)
-- [Fix web installer to work again](https://github.com/rubykube/kaigara/pull/51) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (5 years ago)
-- [Fix installation issues after repo move](https://github.com/rubykube/kaigara/pull/48) on [rubykube/kaigara](https://github.com/rubykube/kaigara) (5 years ago)
-
-#### 📜 My recent blog posts
-
-- 🇺🇸 [Flying Poop - Building a game in a day](https://www.michaelcontento.de/en/blog/2022/11/30/flying-poop-building-a-game-in-a-day/) (1 month ago)
-- 🇺🇸 [Chunked git-push into Azure DevOps](https://www.michaelcontento.de/en/blog/2022/10/20/chunked-git-push-into-azure-devops/) (3 months ago)
-- 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) (3 months ago)
-- 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09/01/new-job-xpirit/) (4 months ago)
-
-
-- 🇩🇪 [Flying Poop - Ein Spiel an einem Tag](https://www.michaelcontento.de/blog/2022/11/30/flying-poop-ein-spiel-an-einem-tag/) (1 month ago)
-- 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/blog/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) (3 months ago)
-- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) (3 months ago)
-- 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09/01/neuer-arbeitgeber-xpirit/) (4 months ago)
-
-#### ⭐ Recent Stars
-
-- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader (1 day ago)
-- [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery. (1 week ago)
-- [jascdk/Nilan_Homeassistant](https://github.com/jascdk/Nilan_Homeassistant) - Use your Home Assistant to control and read values from your Nilan air vent system (3 weeks ago)
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (3 months ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 months ago)
-
-#### 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/michaelcontento/)
-- [Xing](https://www.xing.com/profile/Michael_Contento)
-- [Blog](https://www.michaelcontento.de)
-- [Credly](https://www.credly.com/users/michael-contento)
+| 📫 How to reach me                                       |
+|----------------------------------------------------------|
+| [LinkedIn](https://www.linkedin.com/in/michaelcontento/) |
+| [Xing](https://www.xing.com/profile/Michael_Contento)    |
+| [Blog](https://www.michaelcontento.de)                   |
+| [Credly](https://www.credly.com/users/michael-contento)  |
