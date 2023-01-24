@@ -1,32 +1,42 @@
-## Hi there 👋
+<h2 align="center">Hi there 🖖</h2>
 
-My name is Michael Contento, I'm a passionated ⌨️ full-stack developer @ [Xpirit](https://xpirit.com/) and part time beekeeper 🐝.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelcontento&show_icons=true" width="50%"/>
 
-###  🌱 My latest projects
+<br>
 
-|  |  |
-|--|--|
+I'm a passionated 💻 full-stack developer and part time 🐝 beekeeper.
+
+<br>
+
+Always willing to learn new things.
+
+<br>
+<br>
+
+### 🌱 My latest projects
+
 {{- range recentRepos 5 }}
-| [{{ .Name }}]({{ .URL }}) | {{ with .Description }}{{ . }}{{ end }} |
+- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
-### 📜 My recent blog posts
+### 📰 My recent blog posts
 
-|  |  |
-|--|--|
-{{- $rssEn := rss "https://www.michaelcontento.de/en/blog/index.xml" 5 }}
-{{- $rssDe := rss "https://www.michaelcontento.de/blog/index.xml" 5 }}
-{{- range $index, $en := $rssEn }}
-{{- $de := index $rssDe $index }}
-| 🇺🇸 [{{ $en.Title }}]({{ $en.URL }}) | 🇩🇪 [{{ $de.Title }}]({{ $de.URL }}) |
-{{- end }}
+{{range rss "https://www.michaelcontento.de/en/blog/index.xml" 5}}
+- 🇺🇸 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+{{range rss "https://www.michaelcontento.de/blog/index.xml" 5}}
+- 🇩🇪 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
+and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
 
 ### 📫 How to reach me
 
-[LinkedIn] | [Xing] | [Blog] | [Credly] | [Sessionize]
-
-  [LinkedIn]: https://www.linkedin.com/in/michaelcontento/
-  [Xing]: https://www.xing.com/profile/Michael_Contento
-  [Blog]: https://www.michaelcontento.de
-  [Credly]: https://www.credly.com/users/michael-contento
-  [Sessionize]: https://sessionize.com/michaelcontento/
+- [LinkedIn](https://www.linkedin.com/in/michaelcontento/)
+- [Xing](https://www.xing.com/profile/Michael_Contento)
+- [Blog](https://www.michaelcontento.de)
+- [Credly](https://www.credly.com/users/michael-contento)
+- [Sessionize](https://sessionize.com/michaelcontento)
