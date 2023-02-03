@@ -15,15 +15,15 @@ Always willing to learn new things.
 ### 📰 My recent blog posts
 
 
-- 🇺🇸 [Flying Poop - Building a game in a day](https://www.michaelcontento.de/en/blog/2022/11/30/flying-poop-building-a-game-in-a-day/) (2 months ago)
-- 🇺🇸 [Chunked git-push into Azure DevOps](https://www.michaelcontento.de/en/blog/2022/10/20/chunked-git-push-into-azure-devops/) (3 months ago)
-- 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/blog/2022/10/19/scraping-credly-with-github-actions/) (3 months ago)
-- 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/blog/2022/09/01/new-job-xpirit/) (5 months ago)
+- 🇺🇸 [Building a game in a day](https://www.michaelcontento.de/en/article/2022/11/30/building-a-game-in-a-day/) (2 months ago)
+- 🇺🇸 [Chunked git-push into Azure DevOps](https://www.michaelcontento.de/en/article/2022/10/20/chunked-git-push-into-azure-devops/) (3 months ago)
+- 🇺🇸 [Scraping Credly with GitHub Actions](https://www.michaelcontento.de/en/article/2022/10/19/scraping-credly-with-github-actions/) (3 months ago)
+- 🇺🇸 [New Job? Xpirit!](https://www.michaelcontento.de/en/article/2022/09/01/new-job-xpirit/) (5 months ago)
 
-- 🇩🇪 [Flying Poop - Ein Spiel an einem Tag](https://www.michaelcontento.de/blog/2022/11/30/flying-poop-ein-spiel-an-einem-tag/) (2 months ago)
-- 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/blog/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) (3 months ago)
-- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/blog/2022/10/19/scraping-credly-mit-github-actions/) (3 months ago)
-- 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/blog/2022/09/01/neuer-arbeitgeber-xpirit/) (5 months ago)
+- 🇩🇪 [Ein Spiel an einem Tag](https://www.michaelcontento.de/article/2022/11/30/ein-spiel-an-einem-tag/) (2 months ago)
+- 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/article/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) (3 months ago)
+- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/article/2022/10/19/scraping-credly-mit-github-actions/) (3 months ago)
+- 🇩🇪 [Neuer Arbeitgeber? Xpirit!](https://www.michaelcontento.de/article/2022/09/01/neuer-arbeitgeber-xpirit/) (5 months ago)
 
 ### 💬 Feedback
 
