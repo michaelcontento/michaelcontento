@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 ### 📰 My recent blog posts
 
-{{range rss "https://www.michaelcontento.de/en/blog/index.xml" 5}}
+{{range rss "https://www.michaelcontento.de/en/article/index.xml" 5}}
 - 🇺🇸 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-{{range rss "https://www.michaelcontento.de/blog/index.xml" 5}}
+{{range rss "https://www.michaelcontento.de/article/index.xml" 5}}
 - 🇩🇪 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
