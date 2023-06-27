@@ -7,8 +7,8 @@ Always willing to learn new things.
 
 ### 🌱 My latest projects
 - [michaelcontento/myenergi-zappi-data](https://github.com/michaelcontento/myenergi-zappi-data) - Auto-updated dump of my EV Wallbox data (Zappi)
+- [michaelcontento/ght](https://github.com/michaelcontento/ght)
 - [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo
-- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail.
 
 ### 📰 My recent blog posts
 
