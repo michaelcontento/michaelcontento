@@ -33,9 +33,9 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 ### 🏅Certifications:
 
-![](https://images.credly.com/size/130x130/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png)
-![](https://images.credly.com/size/130x130/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)
-![](https://images.credly.com/size/130x130/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png)
+![](https://images.credly.com/size/130x130/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png)
+![](https://images.credly.com/size/130x130/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png)
+![](https://images.credly.com/size/130x130/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png)
 
 ![](https://images.credly.com/size/130x130/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)
 ![](https://images.credly.com/size/130x130/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
