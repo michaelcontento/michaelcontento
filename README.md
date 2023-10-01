@@ -37,6 +37,7 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 ![](https://images.credly.com/size/130x130/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)
 ![](https://images.credly.com/size/130x130/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)
 ![](https://images.credly.com/size/130x130/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)
+![](https://images.credly.com/size/130x130/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
 
 ![](https://images.credly.com/size/130x130/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)
 ![](https://images.credly.com/size/130x130/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
