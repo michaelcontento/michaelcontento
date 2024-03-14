@@ -14,7 +14,7 @@ Always willing to learn new things.
 
 
 - 🇺🇸 [Mutation Testing in C#](https://www.michaelcontento.de/en/article/2023/08/09/mutation-testing-in-c/) (7 months ago)
-- 🇺🇸 [Nullable Reference Types in C#](https://www.michaelcontento.de/en/article/2023/03/20/nullable-reference-types-in-c/) (11 months ago)
+- 🇺🇸 [Nullable Reference Types in C#](https://www.michaelcontento.de/en/article/2023/03/20/nullable-reference-types-in-c/) (1 year ago)
 - 🇺🇸 [Xpirit Honey](https://www.michaelcontento.de/en/article/2023/02/08/xpirit-honey/) (1 year ago)
 
 - 🇩🇪 [Ein Spiel an einem Tag](https://www.michaelcontento.de/article/2022/11/30/ein-spiel-an-einem-tag/) (1 year ago)
