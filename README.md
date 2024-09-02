@@ -6,9 +6,9 @@ I'm a passionated 💻 full-stack developer and part time 🐝 beekeeper.
 Always willing to learn new things.
 
 ### 🌱 My latest projects
-- [michaelcontento/demo2](https://github.com/michaelcontento/demo2) - My clone repository
-- [michaelcontento/demo](https://github.com/michaelcontento/demo)
 - [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo
+- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail.
+- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
 
 ### 📰 My recent blog posts
 
