@@ -6,9 +6,9 @@ I'm a passionated 💻 full-stack developer and part time 🐝 beekeeper.
 Always willing to learn new things.
 
 ### 🌱 My latest projects
-- [michaelcontento/skills-introduction-to-codeql](https://github.com/michaelcontento/skills-introduction-to-codeql) - GitHub Skills: Introduction to CodeQL
-- [michaelcontento/eShopOnWeb](https://github.com/michaelcontento/eShopOnWeb)
 - [michaelcontento/credly-import-action](https://github.com/michaelcontento/credly-import-action) - Import certificates from Credly into repo
+- [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail.
+- [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
 
 ### 📰 My recent blog posts
 
