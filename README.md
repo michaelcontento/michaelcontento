@@ -23,15 +23,15 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 ### 🏅Certifications:
 
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-actions.png)
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-advanced-security.png)
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-admin.png)
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-foundations.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/github-actions.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/github-advanced-security.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/github-admin.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/github-foundations.png)
 
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-devops-engineer-expert.png)
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-administrator-associate.png)
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-fundamentals.png)
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-ai-fundamentals.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/azure-devops-engineer-expert.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/azure-administrator-associate.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/azure-fundamentals.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/azure-ai-fundamentals.png)
 
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/mct-2023-2024.png)
-![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-cosmos-db-developer-speciality.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/mct-2023-2024.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/main/images/azure-cosmos-db-developer-speciality.png)
