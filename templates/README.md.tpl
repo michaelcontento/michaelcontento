@@ -11,15 +11,6 @@ Always willing to learn new things.
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
-### 📰 My recent blog posts
-
-{{range rss "https://www.michaelcontento.de/en/article/index.xml" 3}}
-- 🇺🇸 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-{{range rss "https://www.michaelcontento.de/article/index.xml" 3}}
-- 🇩🇪 [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 ### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
