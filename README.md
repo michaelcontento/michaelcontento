@@ -10,17 +10,6 @@ Always willing to learn new things.
 - [michaelcontento/terraform-gandi-fastmail-records](https://github.com/michaelcontento/terraform-gandi-fastmail-records) - A Terraform module to provision Gandi with DNS records for FastMail.
 - [michaelcontento/credly2hugo-action](https://github.com/michaelcontento/credly2hugo-action) - Import certificates from Credly into your Hugo website
 
-### 📰 My recent blog posts
-
-
-- 🇺🇸 [Mutation Testing in C#](https://www.michaelcontento.de/en/article/2023/08/09/mutation-testing-in-c/) (1 year ago)
-- 🇺🇸 [Nullable Reference Types in C#](https://www.michaelcontento.de/en/article/2023/03/20/nullable-reference-types-in-c/) (2 years ago)
-- 🇺🇸 [Xpirit Honey](https://www.michaelcontento.de/en/article/2023/02/08/xpirit-honey/) (2 years ago)
-
-- 🇩🇪 [Ein Spiel an einem Tag](https://www.michaelcontento.de/article/2022/11/30/ein-spiel-an-einem-tag/) (2 years ago)
-- 🇩🇪 [Gestückeltes git-push nach Azure DevOps](https://www.michaelcontento.de/article/2022/10/20/gest%C3%BCckeltes-git-push-nach-azure-devops/) (2 years ago)
-- 🇩🇪 [Scraping Credly mit GitHub Actions](https://www.michaelcontento.de/article/2022/10/19/scraping-credly-mit-github-actions/) (2 years ago)
-
 ### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
