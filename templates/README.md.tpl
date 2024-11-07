@@ -24,15 +24,15 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 ### 🏅Certifications:
 
-![](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)
-![](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)
-![](https://images.credly.com/size/110x110/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)
-![](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-actions.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-advanced-security.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-admin.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/github-foundations.png)
 
-![](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)
-![](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
-![](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
-![](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-devops-engineer-expert.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-administrator-associate.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-fundamentals.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-ai-fundamentals.png)
 
-![](https://images.credly.com/size/110x110/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)
-![](https://images.credly.com/size/110x110/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/mct-2023-2024.png)
+![](https://raw.githubusercontent.com/michaelcontento/michaelcontento/refs/heads/images/azure-cosmos-db-developer-speciality.png)
